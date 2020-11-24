@@ -1,0 +1,25 @@
+{
+    "id": "5CF8F2F1",
+    "path": "~/Desktop/FirstRProject/SecondRProj/SecondProj/pollutantmean.R",
+    "project_path": "pollutantmean.R",
+    "type": "r_source",
+    "hash": "2532073466",
+    "contents": "",
+    "dirty": false,
+    "created": 1605686783655.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "7,38",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1605756991,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1605756991404,
+    "read_only": false,
+    "read_only_alternatives": []
+}
